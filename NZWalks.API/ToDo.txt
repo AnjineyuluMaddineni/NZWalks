@@ -1,0 +1,31 @@
+﻿Automapper:
+   AutoMapper in C# is a library used to map data from one object to another in web development.
+   It acts as a mapper between two objects and transforms one object type into another.
+
+   *Object ti object mapping.
+   *Simplification.
+   *Map between DTO's and Domain Models and Vice-versa.
+   *Quite powerful apart from just simple object to object mapping.
+
+Securing our ASp.net core api authentication and authorization jWT Tokens
+    Microsoft.AspNetCore.authentication.JwtBearer
+
+    Add-migration "Creating Auth Database" -Context "NZWalksAuthDbContext"
+
+    Update-Database -Context "NZWalksAuthDbContext"
+
+   Logging:
+
+    *Capturing and storing information
+    *Valuable Insights
+    *Diagnose and troubleshoot problems
+
+   Serilog:
+
+
+   Global Exception Handling:
+
+   * Handle any unhandled exceptions
+   * Create Consistent error response 
+   * Avoid Repetition
+    
